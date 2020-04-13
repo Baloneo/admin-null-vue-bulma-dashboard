@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5bcf8485b208c94f7bbf",
+    "revision": "f9e7bbe0f83be9b23114",
     "url": "/admin-null-vue-bulma-dashboard/css/app.4285499b.css"
   },
   {
@@ -32,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/admin-null-vue-bulma-dashboard/img/justboil-logo.7298fabb.svg"
   },
   {
-    "revision": "136723c07665ab60d1eac31671c2bcbf",
+    "revision": "2d4872aa4bf8a1578cbf195987b4658e",
     "url": "/admin-null-vue-bulma-dashboard/index.html"
   },
   {
-    "revision": "5bcf8485b208c94f7bbf",
-    "url": "/admin-null-vue-bulma-dashboard/js/app.de94ed5d.js"
+    "revision": "f9e7bbe0f83be9b23114",
+    "url": "/admin-null-vue-bulma-dashboard/js/app.a0878c4a.js"
   },
   {
     "revision": "2597cec384cd22a97204",
@@ -52,16 +52,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/admin-null-vue-bulma-dashboard/js/client-form~forms.392212d2.js"
   },
   {
-    "revision": "88b20fa400bbdb609814",
-    "url": "/admin-null-vue-bulma-dashboard/js/forms.8f6c229c.js"
+    "revision": "6892b5916a5464a7c762",
+    "url": "/admin-null-vue-bulma-dashboard/js/forms.39ddcbb4.js"
   },
   {
-    "revision": "10b7f93a573b1c0bde33",
-    "url": "/admin-null-vue-bulma-dashboard/js/profile.abdb5622.js"
+    "revision": "a03a2403de9fe7ab8ff3",
+    "url": "/admin-null-vue-bulma-dashboard/js/profile.fbc47e46.js"
   },
   {
-    "revision": "137388dc26a858c8894d",
-    "url": "/admin-null-vue-bulma-dashboard/js/tables.a90f1dec.js"
+    "revision": "4cb58821376c329f5fb1",
+    "url": "/admin-null-vue-bulma-dashboard/js/tables.3519679b.js"
   },
   {
     "revision": "9e02268cb14385af9653507bc8b8ee72",
