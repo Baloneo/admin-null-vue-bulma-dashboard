@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9e7bbe0f83be9b23114",
-    "url": "/admin-null-vue-bulma-dashboard/css/app.4285499b.css"
+    "revision": "675ffb104aa959a26beb",
+    "url": "/admin-null-vue-bulma-dashboard/css/app.60e99691.css"
   },
   {
     "revision": "2597cec384cd22a97204",
@@ -28,24 +28,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/admin-null-vue-bulma-dashboard/fonts/materialdesignicons-webfont.f5111234.ttf"
   },
   {
-    "revision": "7298fabbecbc6f87cf690f717af8652c",
-    "url": "/admin-null-vue-bulma-dashboard/img/justboil-logo.7298fabb.svg"
-  },
-  {
-    "revision": "2d4872aa4bf8a1578cbf195987b4658e",
+    "revision": "966a677735c69b4065e5c0a2a27d6c33",
     "url": "/admin-null-vue-bulma-dashboard/index.html"
   },
   {
-    "revision": "f9e7bbe0f83be9b23114",
-    "url": "/admin-null-vue-bulma-dashboard/js/app.a0878c4a.js"
+    "revision": "675ffb104aa959a26beb",
+    "url": "/admin-null-vue-bulma-dashboard/js/app.d5de4cdc.js"
   },
   {
     "revision": "2597cec384cd22a97204",
     "url": "/admin-null-vue-bulma-dashboard/js/chunk-vendors.ab8b9078.js"
   },
   {
-    "revision": "117c0820fbb30bf8a19c",
-    "url": "/admin-null-vue-bulma-dashboard/js/client-form.dc694bdf.js"
+    "revision": "b66d897603b42a4e9449",
+    "url": "/admin-null-vue-bulma-dashboard/js/client-form.2fc0c535.js"
   },
   {
     "revision": "a453623202625e4ec5b5",
