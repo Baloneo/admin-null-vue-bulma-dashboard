@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "405691014ca55b7c44f0",
+    "revision": "40c01664b35230139212",
     "url": "/admin-null-vue-bulma-dashboard/css/app.6651600a.css"
   },
   {
-    "revision": "17bba2d46da172ea0efec483d7d7c39b",
+    "revision": "7ee453b9812cdae62d24f7811ef07217",
     "url": "/admin-null-vue-bulma-dashboard/index.html"
   },
   {
-    "revision": "405691014ca55b7c44f0",
-    "url": "/admin-null-vue-bulma-dashboard/js/app-legacy.0960588f.js"
+    "revision": "40c01664b35230139212",
+    "url": "/admin-null-vue-bulma-dashboard/js/app-legacy.dfbb9cf3.js"
   },
   {
     "revision": "460fcc34e8c20d03ab9f",

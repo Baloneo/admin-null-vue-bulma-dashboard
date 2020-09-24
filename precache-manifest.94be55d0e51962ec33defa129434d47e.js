@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "224a70f52a1c909265f1",
+    "revision": "be55e858a27b97953f3b",
     "url": "/admin-null-vue-bulma-dashboard/css/app.6651600a.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/admin-null-vue-bulma-dashboard/favicon.png"
   },
   {
-    "revision": "dee1313bbeff7b9994eb21473f1e4e5f",
+    "revision": "03889a0c252560dc84e16ad0864bbec5",
     "url": "/admin-null-vue-bulma-dashboard/index.html"
   },
   {
-    "revision": "224a70f52a1c909265f1",
-    "url": "/admin-null-vue-bulma-dashboard/js/app.cd446faa.js"
+    "revision": "be55e858a27b97953f3b",
+    "url": "/admin-null-vue-bulma-dashboard/js/app.6ace5027.js"
   },
   {
     "revision": "74b5f104458ef832a2d1",
